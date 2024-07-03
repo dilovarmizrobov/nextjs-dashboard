@@ -68,7 +68,7 @@ export type CustomersTableType = {
 export type FormattedCustomersTable = {
   id: string;
   name: string;
-  email: string;pnpm
+  email: string;
   image_url: string;
   total_invoices: number;
   total_pending: string;
